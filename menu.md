@@ -1,6 +1,6 @@
-...column-start horizontal=Center
+## 👑 » NutsUI « 👑
 
-## » Nuts UI «
+...column-start horizontal=Center
 
 ...image url="https://raw.githubusercontent.com/PikYaan/NutsUi/refs/heads/main/%5E.jpeg" width=25% shape=20dp
 
